@@ -1,0 +1,10 @@
+ebook-site/
+│
+├── index.html
+├── books.html
+├── book1.html
+├── book2.html
+├── css/
+│   └── styles.css
+└── js/
+    └── scripts.js
